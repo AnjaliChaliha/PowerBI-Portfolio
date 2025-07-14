@@ -23,7 +23,7 @@ An NLP-driven dashboard analyzing product reviews on Amazon for Welspun's textil
   - Word clouds & pie charts for sentiment distribution
   - Review trends over time
 
-![Amazon Dashboard](https://github.com/AnjaliChaliha/AMZ-Product-Analysis.gi)
+![Amazon Dashboard](https://github.com/AnjaliChaliha/AMZ-Product-Analysis.git)
 
 ---
 
