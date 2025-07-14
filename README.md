@@ -4,14 +4,14 @@ Welcome to my Power BI portfolio! This repository showcases interactive dashboar
 
 ---
 
-## 🏢 Internship Project @ Welspun India Ltd.
+##  Internship Project @ Welspun India Ltd.
 
 During my internship at Welspun, I designed dashboards that tracked user engagement, product feedback, and organizational trends across various platforms like Amazon, LinkedIn, and Kohl’s.
 
 ![Worklog](https://github.com/AnjaliChaliha/Internship-Worklog.git)
 ---
 
-## 📁 Projects
+##  Projects
 
 ### 🔹 1. Amazon Product Review Analysis Dashboard
 
@@ -41,7 +41,7 @@ Analyzes public engagement on posts by Dipali Goenka (CEO, Welspun) using sentim
 
 ---
 
-### 🔹 3. 🛁 Kohl’s Product Review Analysis Dashboard – Powered by Welspun
+### 🔹 3.  Kohl’s Product Review Analysis Dashboard – Powered by Welspun
 
 Analyzes customer reviews for Welspun’s home textile products sold on Kohl’s using NLP-driven sentiment analysis.
 
@@ -52,4 +52,4 @@ Analyzes customer reviews for Welspun’s home textile products sold on Kohl’s
   - Time-based trend analysis across review periods
 
 
-![LinkedIn Dashboard](https://github.com/AnjaliChaliha/LinkedIn-Comment-Analysis.git)
+![Kohl's Dashboard](https://github.com/AnjaliChaliha/LinkedIn-Comment-Analysis.git)
